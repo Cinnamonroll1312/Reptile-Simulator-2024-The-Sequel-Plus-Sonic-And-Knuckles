@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T00:13:50.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.8" etag="XunsX3WBr3YzmjA9zcSK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T04:41:17.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="yZkebaTds-WG1xplYPTq" version="22.0.8" type="github">
   <diagram name="Page-1" id="pnAooLQt8Wv1VpRaIWOi">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uspMUiEtU48erQLkuNlA-1" value="&lt;div&gt;Will add following animals at least:&lt;/div&gt;&lt;div&gt;bearded dragons&lt;/div&gt;&lt;div&gt;Ball Pythons&lt;/div&gt;&lt;div&gt;Crested Gecko&lt;/div&gt;&lt;div&gt;Gargoyle Gecko&lt;/div&gt;&lt;div&gt;Green anole&lt;/div&gt;&lt;div&gt;&lt;div&gt;Blue tongued skink&lt;/div&gt;&lt;div&gt;Russian tortoise&lt;/div&gt;&lt;div&gt;African Fat Tailed Gecko&lt;/div&gt;&lt;div&gt;Corn Snake&lt;/div&gt;&lt;div&gt;Burmese Python&lt;/div&gt;&lt;/div&gt;&lt;div&gt;these i want to add but after i get the game progress sorta going along:&lt;/div&gt;&lt;div&gt;Ackie Monitor&lt;/div&gt;&lt;div&gt;Kenyan Sand Boa&lt;/div&gt;&lt;div&gt;Green Iguana&lt;/div&gt;&lt;div&gt;Chinese water Dragon&lt;/div&gt;&lt;div&gt;Uromastyx&lt;/div&gt;&lt;div&gt;Tokay Gecko&lt;/div&gt;&lt;div&gt;Chinese cave gecko&lt;/div&gt;&lt;div&gt;Electric blue day gecko&lt;/div&gt;&lt;div&gt;Fiji Crested Iguana&lt;/div&gt;&lt;div&gt;Armadillo girdled lizard&lt;/div&gt;&lt;div&gt;parsons chameleon&lt;/div&gt;&lt;div&gt;rhino iguana&lt;/div&gt;&lt;div&gt;satanic leaf tailed gecko&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry y="360" width="240" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="uspMUiEtU48erQLkuNlA-2" value="&lt;div&gt;So all these anmials are going to have fact values and care values and price values and rarity values essentially. Im going to write an example right now based on the (currently only) one reptile i have now:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rarity + Leopard Gecko&lt;/div&gt;&lt;div&gt;value&lt;/div&gt;&lt;div&gt;care difficulty&lt;br&gt;&lt;/div&gt;&lt;div&gt;Eublepharis macularius&lt;/div&gt;&lt;div&gt;10-20 years&lt;/div&gt;&lt;div&gt;7-10 inches&lt;/div&gt;&lt;div&gt;Insectivores&lt;/div&gt;&lt;div&gt;Nocturnal&lt;/div&gt;&lt;div&gt;Arid&lt;/div&gt;&lt;div&gt;Terrestrial&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Habitat range wont be in the constructor as ill have to change it like every single time)&lt;/div&gt;&lt;div&gt;Afghanistan Pakistan and India&lt;br&gt;&lt;/div&gt;&lt;div&gt;Facts: Most gecko species lack eyelids, Yet the leopard gecko has movable eyelids that allow them to blink and close their eyes while they sleep. They also have claws as opposed to sticky feet pads that most geckos have. Common leopard geckos are not very vocal but when stressed they will produce barks and squeaks.&lt;/div&gt;" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry width="530" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uspMUiEtU48erQLkuNlA-3" value="&lt;div&gt;These are going to be some of the background values and not displayed in ui i dont think:&lt;/div&gt;&lt;div&gt;clutch size&lt;/div&gt;Breeding time (just gonna combine their pregnancy and incubation times before i input the value)&lt;br&gt;&lt;div&gt;different morphs(that will raise the rarity and price of the animal depending)&lt;/div&gt;&lt;div&gt;common (more likely it will sell quickly)&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="530" width="320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="uspMUiEtU48erQLkuNlA-5" value="Bad practices will make your animals " style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="610" height="480" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
