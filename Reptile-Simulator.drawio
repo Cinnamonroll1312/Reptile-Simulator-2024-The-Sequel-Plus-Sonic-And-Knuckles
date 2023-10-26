@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T04:41:17.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="yZkebaTds-WG1xplYPTq" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T04:44:00.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="oCH3ROuT_HhndgFiH6S7" version="22.0.8" type="github">
   <diagram name="Page-1" id="pnAooLQt8Wv1VpRaIWOi">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="uspMUiEtU48erQLkuNlA-3" value="&lt;div&gt;These are going to be some of the background values and not displayed in ui i dont think:&lt;/div&gt;&lt;div&gt;clutch size&lt;/div&gt;Breeding time (just gonna combine their pregnancy and incubation times before i input the value)&lt;br&gt;&lt;div&gt;different morphs(that will raise the rarity and price of the animal depending)&lt;/div&gt;&lt;div&gt;common (more likely it will sell quickly)&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="530" width="320" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="uspMUiEtU48erQLkuNlA-5" value="Bad practices will make your animals " style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="uspMUiEtU48erQLkuNlA-5" value="Bad practices will make your animals less healthy and happy and your breeders reputation will go down causing people to be less likely to buy your reptiles. Less healthy reptiles are worth less. " style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="240" y="360" width="610" height="480" as="geometry" />
         </mxCell>
       </root>
